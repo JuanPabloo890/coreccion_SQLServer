@@ -20,7 +20,7 @@ public class coreccionSQL {
     private JPanel marco;
     static final String DB_URL = "jdbc:mysql://localhost/POO"; // esta es la conexion con la base de datos
     static final String USER = "root"; //usuario
-    static final String PASS = "root_bas3"; // contraseña
+    static final String PASS = "Skarabus6"; // contraseña
     static final String QUERY = "select * from personas";
 
 
